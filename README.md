@@ -330,24 +330,54 @@ El área de la placa aumenta aumentando el número de capas de placa y materiale
 
 40. En la figura 12-78, inicialmente el capacitor está descargado. En el instante t = 10 ms después de que se cierra el interruptor, el voltaje instantáneo en el capacitor es de 7.2 V. Determine el valor de R
 
+![image](https://user-images.githubusercontent.com/105565670/178307110-c817203d-1f80-419f-8983-2afa31994172.png)
 
+42. ¿Cuál es el valor de la reactancia capacitiva total en cada circuito de la figura 12-80?
 
+![image](https://user-images.githubusercontent.com/105565670/178307197-7a075b15-4e98-48ad-865f-a4bc6885d90b.png)
 
+44. En cada circuito de la figura 12-80, ¿qué frecuencia se requiere para producir una Xc de 100 Ω? ¿Una Xc de 1 kΩ?
 
+![image](https://user-images.githubusercontent.com/105565670/178307293-07b4bc04-a154-42fb-843d-a5bb7fdb8c24.png)
 
+![image](https://user-images.githubusercontent.com/105565670/178307327-b649106c-03a8-4f6f-a164-daf8bdbe8721.png)
 
+46. Se aplica un voltaje de 10 kHz a un capacitor de 0.0047 uF, y se mide una corriente rms de 1 mA. ¿Cuál es el valor del voltaje?
 
+![image](https://user-images.githubusercontent.com/105565670/178307351-ac5d4dea-303d-45b3-a03d-a75f9c246deb.png)
 
+48. Determine el voltaje de ca entre las terminales de cada capacitor y la corriente en cada rama del circuito de la figura 12-81
 
+![image](https://user-images.githubusercontent.com/105565670/178307426-77cc4bc5-ef39-4434-a56c-31002db6a28d.png)
 
+![image](https://user-images.githubusercontent.com/105565670/178307454-ccb746c7-a107-474d-9ddf-6f0c29ff07bf.png)
 
+![image](https://user-images.githubusercontent.com/105565670/178307482-20435d62-e1d7-49e0-86db-5dbbe3cd87d4.png)
 
+50. Si en la figura 12-81 C4 se abriera, determine los voltajes que se medirían entre las terminales de los otros capacitores
 
+![image](https://user-images.githubusercontent.com/105565670/178307547-9c63b968-04ca-4116-a517-0477c1397ff7.png)
 
+52. Idealmente, ¿cuál deberá ser la reactancia de un capacitor de desvío para eliminar un voltaje de ca de 10 kHz en un punto dado en un circuito amplificador?
 
+Deberá ser de 0Ω para proporcionar un corto a tierra de ca
 
+54. En un circuito de capacitor conmutado, el capacitor de 100 pF se conmuta a una frecuencia de 8 kHz. ¿Qué valor de resistor se emula?
 
+![image](https://user-images.githubusercontent.com/105565670/178307600-9579044e-39fe-41b6-a15e-5db2f43bed98.png)
 
+4. Video
 
+Link del video:
 
+5. Conclusiones
 
+•	La forma de onda sinusoidal es fundamental para el cálculo y análisis de circuitos con corriente o voltaje alterno que dependiendo la necesidad se aplicará de distintas formas.
+
+•	Los capacitores son componentes presentes en un circuito eléctrico que almacenan energía, dependiendo del funcionamiento y utilidad que se requiera, se podrán utilizar distintos tipos de capacitores en diferentes situaciones para el correcto funcionamiento de un circuito eléctrico.
+
+6. Bibliografía
+
+Floyd, T. (2007). Principios de circuitos eléctricos. Octava edición. México: Pearson Educación.
+
+MecatrónicaLATAM. (23 de Abril de 2021). MecatrónicaLATAM. Obtenido de https://www.mecatronicalatam.com/es/tutoriales/electronica/componentes-electronicos/capacitor/
