@@ -154,6 +154,59 @@ Por tanto, la reactancia capacitiva es la oposición a la corriente sinusoidal, 
 
 Capítulo 11
 
+2. Calcule el periodo de cada uno de los siguientes valores de frecuencia:
+
+![image](https://user-images.githubusercontent.com/105565670/178304424-b3a54a9f-5d22-4f0f-830b-904c662c3ba5.png)
+
+4. Una onda seno tiene frecuencia de 50 kHz. ¿Cuántos ciclos completa en 10 ms?
+
+![image](https://user-images.githubusercontent.com/105565670/178304458-832a70df-76a9-466c-a09d-cb7e83c9837e.png)
+
+6. Cierto generador de cuatro polos gira a 3600 rpm. ¿Cuál es la frecuencia del voltaje que produce?
+
+![image](https://user-images.githubusercontent.com/105565670/178304501-b7c4007d-cf14-4008-97b9-bf05d282922a.png)
+
+8. El valor pico de una onda seno es de 12 V. Determine los siguientes valores: 
+
+![image](https://user-images.githubusercontent.com/105565670/178304553-b4e46cd0-b892-4a0a-97c2-15dabe12e2d3.png)
+
+10. Para la onda seno de la figura 11-77, determine los valores pico, pico a pico, rms y promedio.
+
+![image](https://user-images.githubusercontent.com/105565670/178304601-55eead19-ff51-4c62-a48f-141dcaa73fad.png)
+
+12. Cambie los siguientes valores angulares de radianes a grados: 
+
+![image](https://user-images.githubusercontent.com/105565670/178304649-09bc075f-8738-48dd-90d8-498c2adb5ce5.png)
+
+14. Una onda seno tiene un pico positivo en 75° y otro con un pico positivo en 100°. ¿Cuánto se desfasa cada onda seno con respecto a la referencia de 0°? ¿Cuál es el ángulo de fase entre estas ondas?
+
+![image](https://user-images.githubusercontent.com/105565670/178304696-b6ab1971-8e98-4fdd-ab9c-dda339fe561f.png)
+
+16. Cierta onda seno tiene un cruce por cero hacia positivo en 0° y valor rms de 20 V. Calcule su valor instantáneo en cada uno de los siguientes ángulos:
+
+![image](https://user-images.githubusercontent.com/105565670/178304792-81a67057-05d4-40de-9fa5-68931ebb37bd.png)
+
+18. Para una onda seno referida a 0° con valor rms de 6.37 V, determine el valor instantáneo en cada uno de los puntos siguientes:
+
+![image](https://user-images.githubusercontent.com/105565670/178304837-249c4009-4b44-4080-a759-585025f58dec.png)
+
+![image](https://user-images.githubusercontent.com/105565670/178304862-c405e1ea-3474-4971-90e9-65c7365ac0bb.png)
+
+20. Repita el problema 19 para el caso en que la onda seno A va 30° delante de la onda seno B.
+
+![image](https://user-images.githubusercontent.com/105565670/178304889-50245eea-13ee-40cc-b5a3-f95d72a15ded.png)
+
+22. Trace un diagrama fasorial para representar las ondas seno de la figura 11-78 con respecto a la referencia de 0°.
+
+![image](https://user-images.githubusercontent.com/105565670/178304927-593d0cbc-02d0-429d-887c-07e891d064a7.png)
+
+24. Determine la frecuencia para cada velocidad angular:
+
+
+
+
+
+
 
 
 
