@@ -202,6 +202,55 @@ Capítulo 11
 
 24. Determine la frecuencia para cada velocidad angular:
 
+![image](https://user-images.githubusercontent.com/105565670/178305146-d980fb9c-c038-4448-9d3e-da34c31fc998.png)
+
+26. Se aplica un voltaje sinusoidal al circuito resistivo de la figura 11-80. Determine los valores siguientes:
+
+![image](https://user-images.githubusercontent.com/105565670/178305203-0233bfdd-92c7-467b-9750-32ab02aa273d.png)
+
+28. Determine el voltaje rms entre los extremos de R3 en la figura 11-82
+
+![image](https://user-images.githubusercontent.com/105565670/178305264-b55635f9-ac05-4b4f-96c3-fe85bdacb609.png)
+
+30. ¿Cuánto voltaje de cd se debe agregar a una onda seno de 3 V rms para hacer el voltaje resultante no alterno (valores negativos)?
+
+![image](https://user-images.githubusercontent.com/105565670/178305296-e02c1b77-c9f0-4240-9ec4-2ee5561ccc5d.png)
+
+32. La figura 11-83 muestra una fuente de voltaje sinusoidal dispuesta en serie con una fuente de cd. Efectivamente, los dos voltajes están superpuestos. Determine la disipación de potencia en el resistor de carga
+
+![image](https://user-images.githubusercontent.com/105565670/178305423-025be9d4-24f4-4fa7-ac82-0dfc360e2504.png)
+
+34. La frecuencia de repetición de una forma de onda pulsante es de 2 kHz, y el ancho de pulso es de 1 µs. ¿Cuál es el ciclo de trabajo en porcentaje?
+
+![image](https://user-images.githubusercontent.com/105565670/178305461-6edc4a90-fefc-4460-8cf6-be4ba8f7fc44.png)
+
+36. Determine el ciclo de trabajo de cada una de las formas de onda mostradas en la figura 11-86
+
+![image](https://user-images.githubusercontent.com/105565670/178305544-c8e5919c-5441-42b4-bd19-c66836487a7e.png)
+
+38. ¿Cuál es la frecuencia de cada una de las formas de onda mostradas en la figura 11-86?
+
+![image](https://user-images.githubusercontent.com/105565670/178305579-9b26301c-c6fa-4ac1-ba90-99f1c119505b.png)
+
+40. Una forma de onda no sinusoidal llamada escalonada se muestra en la figura 11-88. Determine su valor promedio
+
+![image](https://user-images.githubusercontent.com/105565670/178305608-fedc6e98-07c6-489a-af0d-7721965983e3.png)
+
+42. ¿Cuál es la frecuencia fundamental de la onda cuadrada mencionada en el problema 41?
+
+![image](https://user-images.githubusercontent.com/105565670/178305644-3e94b45f-2af6-4c1f-a739-b9587a5c0561.png)
+
+44. Con base en los ajustes del instrumento y en un examen de la pantalla del osciloscopio y de la tarjeta prototipo mostrados en la figura 11-90, determine la frecuencia y el valor pico de las señales de entrada y salida. La forma de onda mostrada es el canal 1. Trace la forma de onda del canal 2 como aparecería en el osciloscopio con los ajustes indicado
+
+![image](https://user-images.githubusercontent.com/105565670/178305746-9446e90c-3d17-4daa-b3bf-8fbec16fbb3f.png)
+
+![image](https://user-images.githubusercontent.com/105565670/178305815-940f0ddf-b7fc-49aa-8fc1-3471eed87f48.png)
+
+Para el trazo de la forma de la onda del canal 2, sería:
+
+![image](https://user-images.githubusercontent.com/105565670/178305855-93f23e42-784d-4d71-9a65-af708282c2c3.png)
+
+Capítulo 12
 
 
 
