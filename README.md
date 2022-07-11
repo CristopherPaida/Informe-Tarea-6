@@ -306,6 +306,32 @@ El área de la placa aumenta aumentando el número de capas de placa y materiale
 
 28. ¿Cuál es el voltaje entre los nodos A y B en cada circuito de la figura 12-72?
 
+![image](https://user-images.githubusercontent.com/105565670/178306748-1352f5d2-524e-441b-89ea-e8022ce6e716.png)
+
+30. Determine la constante de tiempo para cada una de las combinaciones en serie:
+
+![image](https://user-images.githubusercontent.com/105565670/178306790-bf9c7334-3117-454c-8437-9ee2a813ec00.png)
+
+32. En el circuito de la figura 12-74, inicialmente el capacitor está descargado. Determine el voltaje presente en el capacitor en los instantes posteriores al cierre del interruptor:
+
+![image](https://user-images.githubusercontent.com/105565670/178306888-8208cba9-bf3a-46e5-a613-7b90b2fe4535.png)
+
+34. Repita el problema 32 con los siguientes intervalos de tiempo:
+
+![image](https://user-images.githubusercontent.com/105565670/178306942-6db9b838-98c3-4f41-a61e-f754b3801d34.png)
+
+36. Derive la fórmula para determinar el tiempo en cualquier punto de una curva de voltaje exponencial creciente. Use esta fórmula para calcular el tiempo en el cual el voltaje que aparece en la figura 12-76 llega a 6 V después de cerrar el interruptor
+
+![image](https://user-images.githubusercontent.com/105565670/178306995-eb234e85-a57c-452e-af38-73579a144ee4.png)
+
+38. ¿Cuánto tiempo requiere el capacitor C para descargarse a 3 V en la figura 12-75?
+
+![image](https://user-images.githubusercontent.com/105565670/178307030-a291141c-b126-4ef0-b001-ea1642127f9f.png)
+
+40. En la figura 12-78, inicialmente el capacitor está descargado. En el instante t = 10 ms después de que se cierra el interruptor, el voltaje instantáneo en el capacitor es de 7.2 V. Determine el valor de R
+
+
+
 
 
 
