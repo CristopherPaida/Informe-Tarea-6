@@ -252,6 +252,62 @@ Para el trazo de la forma de la onda del canal 2, sería:
 
 Capítulo 12
 
+2. Transforme los siguientes valores de microfarads a picofarads
+
+![image](https://user-images.githubusercontent.com/105565670/178306021-005c1a08-5418-4d63-9014-b75de53b3a87.png)
+
+4. Transforme los siguientes valores de farads a microfarads 
+
+![image](https://user-images.githubusercontent.com/105565670/178306059-229d7d4e-e7c3-49b7-972b-02abdf2bd50e.png)
+
+6. ¿Qué tamaño de capacitor es capaz de guardar 10 mJ de energía con 100 V entre sus placas?
+
+![image](https://user-images.githubusercontent.com/105565670/178306097-d25d6b77-0561-4634-8e3b-3d8d7e52b9a4.png)
+
+8. Un capacitor de mica tiene placas cuadradas de 3.8 cm por lado con una separación entre ellas de 2.5 mils. ¿Cuál es la capacitancia?
+
+![image](https://user-images.githubusercontent.com/105565670/178306143-2cf03f14-bd8d-4f43-b37d-7373452beb22.png)
+
+10.
+
+![image](https://user-images.githubusercontent.com/105565670/178306263-dfbda7bd-9e25-45a4-882f-c9b346b7fa7d.png)
+
+12. A temperatura ambiente (25°C), se especifica que cierto capacitor sea de 1000 pF. El capacitor tiene coeficiente de temperatura negativo de 200 ppm/°C. ¿Cuál es su capacitancia a 75°C?
+
+![image](https://user-images.githubusercontent.com/105565670/178306302-fb464c4e-3eb5-4157-a59e-f3b948344454.png)
+
+14. En la construcción de un capacitor de hojas de mica y laminillas apiladas, ¿cómo se incrementa el área de placas?
+
+El área de la placa aumenta aumentando el número de capas de placa y materiales dieléctricos.
+
+16. Muestre cómo conectar un capacitor electrolítico de un lado a otro de R2 entre los puntos A y B en la figura 12-66.
+
+![image](https://user-images.githubusercontent.com/105565670/178306373-9b1ed7d9-4192-41e2-bfbb-6f3c9ca4e834.png)
+
+18. Identifique las partes del capacitor de disco de cerámica mostrado en la vista de corte de la figura 12-67.
+
+![image](https://user-images.githubusercontent.com/105565670/178306420-ec82cd0c-e785-494f-bb0d-18a04dfa82a6.png)
+
+20. Cinco capacitores de 1000 pF están en serie. ¿Cuál es la capacitancia total?
+
+![image](https://user-images.githubusercontent.com/105565670/178306470-808a6566-507b-490d-a0da-85af339d79b1.png)
+
+22. Para cada circuito de la figura 12-69, determine el voltaje entre las terminales de cada capacitor.
+
+![image](https://user-images.githubusercontent.com/105565670/178306538-f27ce854-2b65-43ac-8f1b-e6cdcdbfd325.png)
+
+24. La carga total guardada por los capacitores en serie de la figura 12-70 es de 10 µC. Determine el voltaje entre las terminales de cada capacitor.
+
+![image](https://user-images.githubusercontent.com/105565670/178306584-72dc42b0-0e54-40e8-bc73-cf2a51058d97.png)
+
+26. ¿Cuál es la carga en cada capacitor de la figura 12-71?
+
+![image](https://user-images.githubusercontent.com/105565670/178306625-fba5f42e-5f65-44f9-84d0-31e166bbd53c.png)
+
+28. ¿Cuál es el voltaje entre los nodos A y B en cada circuito de la figura 12-72?
+
+
+
 
 
 
