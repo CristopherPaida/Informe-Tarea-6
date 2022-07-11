@@ -368,7 +368,7 @@ Deberá ser de 0Ω para proporcionar un corto a tierra de ca
 
 4. Video
 
-Link del video:
+Link del video: https://www.youtube.com/watch?v=Sf-fo-5yJZI
 
 5. Conclusiones
 
